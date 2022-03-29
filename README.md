@@ -1,2 +1,2 @@
 ## exercicioc++
-reserva de lista de exercicio para fazer depois
+reserva de lista de exercicio extraído na lista do professor José 
